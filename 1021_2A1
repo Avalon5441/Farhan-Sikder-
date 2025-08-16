@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Class Evaluation 2</title>
+</head>
+<body>
+   <table border="2px" style="border-collapse: collapse; margin: auto; text-align: center;" >
+    <caption> SECTION 2A'S ROUTINE</caption>
+    <tr>
+        <th style="background-color: bisque;">2A</th>
+        <th style="background-color: bisque;">08:00-09:00</th>
+        <th style="background-color: bisque;">09:00-10:00</th>
+        <th style="background-color: bisque;">10:00-11:00</th>
+        <th style="background-color: bisque;">11:00-12:00</th>
+        <th style="background-color: bisque;">12:00-01:00</th>
+        <th style="background-color: bisque;">01:00-02:00</th>
+        <th style="background-color: bisque;">02:00-03:00</th>
+        <th style="background-color: bisque;">03:00-04:00</th>
+    </tr> 
+    <tr>
+        <td style="background-color: aqua;"> SUNDAY</td>
+        <td style="background-color: cadetblue;">Math-413</td>
+        <td style="background-color: lightcoral;" colspan="2">Java-602</td>
+        <td style="background-color: lightseagreen;;" colspan="3">Web-411</td>
+        <td colspan="2"></td>
+        
+    <tr>
+        <td style="background-color: aqua;" rowspan="2"> MONDAY</td>
+       
+        <td style="border: 1px; background-color: rgb(239, 232, 248);"  rowspan="2">History-B203</td>
+    
+        <td style="background-color: darkgray" rowspan="2" colspan="2">EEE-603</td>
+        <td></td>
+        <td style="background-color: darkgray" colspan="2">EEE Lab-502</td>
+        <td></td>
+        <td  rowspan="2"></td>
+        
+
+    </tr>
+    <tr >
+        <td style="background-color: aliceblue;" colspan="2"></td>
+        <td style="background-color: aquamarine;" colspan="2">Engineering Drawing-210</td>
+        <td colspan="1"></td>
+    </tr>
+    <tr>
+        <td style="background-color: aqua;" >Tuesday</td>
+        <Td colspan="8" ></Td>
+    </tr>
+    <tr>
+        <td style="background-color: aqua;">Wednesday</td>
+        <td colspan="3" style="background-color: rgb(150, 179, 218);">Discrete Math-B203</td>
+        <td colspan="2" style="background-color: cadetblue;">Math-203</td>
+        <td colspan="2"></td>
+        <td style="background-color: lightcoral">Java-602</td>
+    </tr>
+    <tr><td rowspan="2" style="background-color: aqua;">Thursday</td>
+        <td rowspan="2" style="background-color: rgb(239, 232, 248);">History-B203</td>
+        <td colspan="2" style="background-color: aquamarine;">Engineering Drawing-210</td>
+        <td rowspan="2" style="background-color: darkgrey;">EEE-509</td>
+        <td rowspan="2" colspan="3" style="background-color: lightcoral;">Java Lab-411</td>
+        <td rowspan="2"></td>
+    </tr>
+    <tr>
+        
+        <td colspan="2" style="background-color: darkgray;">EEE Lab-504</td></tr>
+   </table> 
+</body>
+</html>
